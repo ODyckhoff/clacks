@@ -16,7 +16,7 @@ In fact I'll probably end up using the binary ASCII system anyway, as having acc
 Also, is it cruel to create a light-shutter based semaphore system which requires vision and base it on a reading system designed for visually impaired people?
 
 https://en.wikipedia.org/wiki/Braille_Patterns
-http://www.roubaixinteractive.com/PlayGround/Binary\_Conversion/The_Characters.asp
+http://www.roubaixinteractive.com/PlayGround/Binary_Conversion/The_Characters.asp
 
 Software Options
 ----------------
